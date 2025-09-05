@@ -1,15 +1,15 @@
-Hello          
+Hello__________
 This is a utf-8
 file where each
 line is 16 byte
-long including 
-newline char   
+long including_
+newline char___
                
 0123456789abcde
                
-©      2 bytes
+©______2 bytes
                
-⭐     3 bytes
+⭐_____3 bytes
                
-👍    4 bytes
+👍____4 bytes
                
