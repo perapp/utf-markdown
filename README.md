@@ -4,6 +4,13 @@ file where each
 line is 16 byte
 long including 
 newline char   
+Use it to test 
+terminal tools 
+or editors.    
+Check it out   
+with:          
+hexdump -C     
+README.md      
                
 0123456789abcde
                
