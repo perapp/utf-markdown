@@ -7,10 +7,11 @@ newline char
 Use it to test 
 terminal tools 
 or editors.    
-Check it out   
-with:          
+Read it with:  
+```            
 hexdump -C     
 README.md      
+```            
                
 0123456789abcde
                
