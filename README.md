@@ -6,7 +6,10 @@ long including
 newline char   
                
 0123456789abcde
+               
 ©      2 bytes
+               
 ⭐     3 bytes
+               
 👍    4 bytes
                
