@@ -8,10 +8,8 @@ Use it to test
 terminal tools 
 or editors.    
 Read it with:  
-```            
-hexdump -C     
-README.md      
-```            
+`hexdump -C    
+README.md`     
                
 0123456789abcde
                
